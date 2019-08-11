@@ -2,16 +2,10 @@
 
 Coachzone is an IOS app I was contracted to build in the Summer of 2019. Over the course of 2.5 months, I independently built and shipped the app to the IOS app store. 
 
-Video of the application can be seen at: https://www.youtube.com/watch?v=yk4iIGWHfNc&feature=youtu.be. 
+# Video 
+ https://www.youtube.com/watch?v=yk4iIGWHfNc&feature=youtu.be. 
 
-![IMG_4643-1](https://user-images.githubusercontent.com/31415211/62838063-143fc680-bc45-11e9-8572-d391deb2e30d.jpeg)
-![IMG_4644](https://user-images.githubusercontent.com/31415211/62838064-143fc680-bc45-11e9-8b52-62e286548de2.jpeg)
-![IMG_4649](https://user-images.githubusercontent.com/31415211/62838065-143fc680-bc45-11e9-8e08-4f4c5ca9f87a.jpeg)
-![IMG_4650](https://user-images.githubusercontent.com/31415211/62838066-14d85d00-bc45-11e9-8167-b9ee97df4081.jpeg)
-![IMG_4651](https://user-images.githubusercontent.com/31415211/62838067-14d85d00-bc45-11e9-9395-5f0b4911ace4.jpeg)
-![IMG_4652](https://user-images.githubusercontent.com/31415211/62838068-14d85d00-bc45-11e9-8f36-0a8cd69935d2.jpeg)
-
-Skills/Tools used:
+# Skills/Tools used:
 - To ensure full control, the front-end is all Swift's Programatic Auto-Layout. 
 - Node JS to create a REST API. 
 - Several Redis Clusters for data caching.
@@ -21,3 +15,10 @@ Skills/Tools used:
 - Deployed a machine learning model to production through Docker and Plumber
 - Social Login (Facebook + Google)
 - Due to NDA, cannot share actual code.
+
+# Images
+![IMG_4650](https://user-images.githubusercontent.com/31415211/62838066-14d85d00-bc45-11e9-8167-b9ee97df4081.jpeg)
+![IMG_4651](https://user-images.githubusercontent.com/31415211/62838067-14d85d00-bc45-11e9-9395-5f0b4911ace4.jpeg)
+![IMG_4652](https://user-images.githubusercontent.com/31415211/62838068-14d85d00-bc45-11e9-8f36-0a8cd69935d2.jpeg)
+
+
