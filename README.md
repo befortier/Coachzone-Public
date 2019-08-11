@@ -4,6 +4,9 @@ Coachzone is an IOS app I was contracted to build in the Summer of 2019. Over th
 
 Video of the application can be seen at: https://www.youtube.com/watch?v=yk4iIGWHfNc&feature=youtu.be. 
 
+
+![alt text](https://drive.google.com/drive/folders/1hPR6gbamnpZ3iJCXwCzh1EQo7IzKZKzK)
+
 Skills/Tools used:
 - To ensure full control, the front-end is all Swift's Programatic Auto-Layout. 
 - Node JS to create a REST API. 
