@@ -4,11 +4,7 @@ Coachzone is an IOS app I was contracted to build in the Summer of 2019. Over th
 
 # Video 
 
-[linkname](https://www.youtube.com/watch?v=yk4iIGWHfNc&feature=youtu.be.)
-
-
-
-
+[Coachzone Walkthrough](https://www.youtube.com/watch?v=yk4iIGWHfNc&feature=youtu.be.)
 
 
 # Skills/Tools used:
