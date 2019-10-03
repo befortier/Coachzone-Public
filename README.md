@@ -2,7 +2,7 @@
 
 Coachzone is an IOS app I was contracted to build in the Summer of 2019. Over the course of 2.5 months, I independently built and shipped the app to the IOS app store. 
 
-# Video 
+# Video (Click below)
 
 [Coachzone Walkthrough](https://www.youtube.com/watch?v=yk4iIGWHfNc&feature=youtu.be.)
 
