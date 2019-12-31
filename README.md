@@ -21,6 +21,7 @@ https://apps.apple.com/us/app/coachzone/id1475301780
 - Server Auto-Scaling + Application Load Balancing
 - Deployed a machine learning model to production through Docker and Plumber
 - Social Login (Facebook + Google)
+- User Authentication (Email/Text Code)
 
 # Images
 ![IMG_4650](https://user-images.githubusercontent.com/31415211/62838066-14d85d00-bc45-11e9-8167-b9ee97df4081.jpeg)
