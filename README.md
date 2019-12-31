@@ -1,13 +1,14 @@
 # Coachzone-Public
 
 Coachzone is an IOS app I was contracted to build in the Summer of 2019. Over the course of 2.5 months, I independently built and shipped the app to the IOS app store. I pride myself on quality code. Within the repository is a sample of some of the code used for this project. Due to NDA, I cannot share more than is currently available.
-# Application (Click below)
 
-https://apps.apple.com/us/app/coachzone/id1475301780
-
-# Video (Click below)
+# Video 
 
 [Coachzone Walkthrough](https://www.youtube.com/watch?v=yk4iIGWHfNc&feature=youtu.be.)
+
+# App Store
+
+https://apps.apple.com/us/app/coachzone/id1475301780
 
 
 # Skills/Tools used:
